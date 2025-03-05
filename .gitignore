@@ -1,0 +1,17 @@
+Dataset_merged
+Dataset_new
+Dataset_old
+Dataset_small
+outputs
+model_outputs_v2
+model_outputs_v2
+*.pth
+*.png
+*.yaml
+__pycache__
+*.log
+*.txt
+*.json
+*.jsonl
+*.wandb
+*.pt
